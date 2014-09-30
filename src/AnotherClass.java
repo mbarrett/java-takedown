@@ -1,6 +1,6 @@
 
 public class AnotherClass {
-	public void SimpleMessage(){
+	public void simpleMessage(){
 		System.out.println("This is another class");
 	}
 }

@@ -1,6 +1,6 @@
 
 public class SwitchStatement {
-	public static void main(String args[]){
+	public static void main(String[] args){
 		int age;
 		age = 3;
 		

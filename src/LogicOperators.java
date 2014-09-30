@@ -1,6 +1,6 @@
 
 public class LogicOperators {
-	public static void main(String args[]){
+	public static void main(String[] args){
 		int boy, girl;
 		
 		boy = 18;
